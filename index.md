@@ -18,10 +18,13 @@ navigation:
 social:
   - platform: Twitter
     url: https://twitter.com/example
+    icon: fab fa-twitter
   - platform: Facebook
     url: https://facebook.com/example
+    icon: fab fa-facebook
   - platform: Instagram
     url: https://instagram.com/example
+    icon: fab fa-instagram
 
 # Contact information
 contact:
@@ -34,5 +37,20 @@ contact:
 
 # Footer text
 footer: "© 2023 My Website. All rights reserved."
+
+# Color scheme
+colors:
+  primary: "#007bff"          # Primary color
+  secondary: "#6c757d"        # Secondary color
+  success: "#28a745"          # Success color
+  danger: "#dc3545"           # Danger color
+  warning: "#ffc107"          # Warning color
+  info: "#17a2b8"             # Info color
+  light: "#f8f9fa"            # Light color
+  dark: "#343a40"             # Dark color
+
+# Font Awesome icons
+fontAwesome:
+  url: "https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
 
 # Additional configuration options go here...
